@@ -1,0 +1,19 @@
+INFO:root:user entered numerator value as 10
+INFO:root:user entered denomerator value as 5
+DEBUG:root:user entered numerator value as 12
+DEBUG:root:user entered denomerator value as 6
+DEBUG:root:user entered numerator value as 10
+DEBUG:root:user entered denomerator value as 5
+INFO:root:calling divide function
+INFO:root:divide fuinction returned vale 2.0
+DEBUG:root:user entered numerator value as 10
+DEBUG:root:user entered denomerator value as 0
+INFO:root:calling divide function
+DEBUG:root:user entered numerator value as 10
+DEBUG:root:user entered denomerator value as 0
+INFO:root:calling divide function
+ERROR:root:error occured and the user entered value is 0
+DEBUG:root:user entered numerator value as 12
+DEBUG:root:user entered denomerator value as 0
+INFO:root:calling divide function
+ERROR:root:the user entered den value is 0
